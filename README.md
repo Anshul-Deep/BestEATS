@@ -1,4 +1,4 @@
-Live [DEMO](anshul-deep.github.io/BestEATS)
+Live [DEMO](Anshul-Deep.github.io/BestEATS)
 
 # Getting Started with Create React App
 
